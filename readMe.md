@@ -2,7 +2,7 @@
 Bash kullanmamız lazım çünkü source cmde'de veya powershell'de yok.(Önerim Git Bash)
 
 
-Taşınabilir olsun diye  'python -m venv env' komutunu kullanıyoruz.
+environment kurulumu için  'python -m venv env' komutunu kullanıyoruz.
 
 'source env/Scripts/activate' komutunu kullanarak virtual env'i aktif ediyoruz.
 
